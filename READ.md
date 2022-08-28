@@ -4,4 +4,7 @@ Some sample or description!
 
 ## Subheader
 
-Wacthing this tutorials by Gwendolyn Faraday on gits, and she is amazing!
+Watching this tutorials by Gwendolyn Faraday on gits, and she is amazing!
+
+## Local Development
+1. Open index.html in browser.
