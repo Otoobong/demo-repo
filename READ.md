@@ -11,3 +11,7 @@ Watching this tutorials by Gwendolyn Faraday on gits, and she is amazing!
 
 
 1. Open index.html in your browser.
+
+## Final Resolution
+
+Effective, Efficient, and Excellent.
